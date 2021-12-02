@@ -1,3 +1,3 @@
-*********LOGIN DETAILS*********
+**LOGIN DETAILS**
 PASSWORD: pass
 
